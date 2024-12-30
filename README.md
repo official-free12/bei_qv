@@ -1,0 +1,6 @@
+# 贝比 BABY-CTY 区块链盲盒NFT链游 LP质押区块链游戏源码
+
+区块链盲盒NFT链游LP质押区块链游戏源码BABY-CTY<br>前端 egret游戏引擎+后端 PHP+Mysql<br>example.com、一个手机号码注册一个账户，自动获得一只宠物的领养资格，每天签到，每天零撸赚元宝、100个元宝获得一个领养名额、养宠物用户每天签到大概会有30个元宝产生，元宝可用于提升排队入场。<br>example.com<br>example.com，24小时后产下两个熊猫仔每个蛋支付50USDT进行喂养。<br>example.com、每只熊猫支付100元宝受孕，受孕24小时就可以卖出。<br>example.com（共振池为平台长远规划保证所有参与者稳赚不亏）自己收165USDT一只、两只熊猫一共卖出330USDT，每轮赚30USDT。<br>example.com，再用330USDT进入下一轮领养。<br>example.com，小区每增加一个会员领养一只熊猫增加一个领养名额和一个加速积分（加速积分可以用于缩减熊猫仔成长和怀孕的时间,每个加速积分可以缩减24小时）<br>8、动态收益：<br>直推0人，5天1轮，净赚180元，月月利润60%<br>直推1人，3天1轮，净赚2100元，月月利润100-%<br>直推2人，秒玩1轮-，净赚2100元，月月利润300%<br>直推5人，秒玩3轮，净赚2100元，月月利润900%<br>直推10人，秒玩6轮，净赚2100元，月月利润1800%<br>直推20人，秒玩12轮，净赚2100元，月月利润3600%<br>直推50人，秒玩30轮，净赚2100元，月月利润9000%<br>支持定制各种区块链游戏<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/AuE6M" style="color: red;">https://mega-file.org/AuE6M</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
